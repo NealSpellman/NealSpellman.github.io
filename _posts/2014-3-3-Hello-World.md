@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my site!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hey, thanks for stopping by!
+As you can tell, I'm Neal Spellman. I've worked as Game Programmer and Lead Game Programmer for Accipiter Studio at Becker College.
+On the side, I also cofounded and work on Darkflame Universe. It's a server emulator for the game LEGO Universe!
+For that project, I manage all of the staff and development team. I also run the Twitter account (@darkflameuniv) for it.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This is a WIP and will be updated
