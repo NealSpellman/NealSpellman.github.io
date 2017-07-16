@@ -22,7 +22,7 @@ More specifically, I chose a concentration in Game Development and Programming f
 
 [LEGO-based VR Demo](https://www.youtube.com/playlist?list=PL7RzS9Xujh67e687FQXxPnJgGm77_ZLz9)
 
-[Darkflame Universe](www.darkflameuniverse.org)
+[Darkflame Universe](https://www.darkflameuniverse.org)
 
 I also post about smaller projects, including my work on modding LEGO® Universe, here on my blog.
 
