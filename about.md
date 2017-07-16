@@ -13,11 +13,15 @@ More specifically, I chose a concentration in Game Development and Programming f
 ### Projects
 
 **HoloLens**
+
 [Becker Quest](https://youtu.be/TgJsSakpZ8U)
+
 [JayWalker](https://www.microsoft.com/en-us/store/p/jaywalker/9p76lxr8hhb0)
 
 **PC**
-[Fan LEGO VR](https://www.youtube.com/playlist?list=PL7RzS9Xujh67e687FQXxPnJgGm77_ZLz9)
+
+[LEGO-based VR Demo](https://www.youtube.com/playlist?list=PL7RzS9Xujh67e687FQXxPnJgGm77_ZLz9)
+
 [Darkflame Universe](www.darkflameuniverse.org)
 
 I also post about smaller projects, including my work on modding LEGO® Universe, here on my blog.
