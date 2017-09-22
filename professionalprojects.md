@@ -15,7 +15,7 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 
 
 <p align="center">Becker Quest (C#)</p>
-[Becker Quest](https://youtu.be/TgJsSakpZ8U) is a HoloLens tour game designed to show prospective high-school students around one of the buildings.
+[Becker Quest](https://youtu.be/TgJsSakpZ8U) is a HoloLens tour game designed to show prospective students around one of Becker College's buildings.
 
 * Implemented an inventory system for the player that showed a new email and icon at certain milestones.
 * Added in support for voice commands to open the UI.
