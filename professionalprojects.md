@@ -23,7 +23,7 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 
 
 <p align="center">Darkflame Universe (C++, Lua)</p>
-[Darkflame Universe](darkflameuniverse.org) is a server emulator for the popular MMOG, LEGO Universe.
+[Darkflame Universe](https://www.darkflameuniverse.org) is a server emulator for the popular MMOG, LEGO Universe.
 
 * Managed a team of 15 staff, including developers and moderators.
 * Introduced Trello to our development process and held sprints for content milestones.
