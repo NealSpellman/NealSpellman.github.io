@@ -4,7 +4,7 @@ title: Professional Projects
 permalink: /professionalprojects/
 ---
 
-<p align="center">JayWalker (C#)</p>
+<p align="center"><h1>JayWalker (C#)</h1</p>
 [JayWalker](https://www.microsoft.com/en-us/store/p/jaywalker/9p76lxr8hhb0) is a HoloLens arcade game about dodging cars in the street.
 The game was shown off at Becker College's booth at PAX East 2017 and was very well received.
 
@@ -14,7 +14,7 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 * Ran playtests to gather data on balancing from average players.
 
 
-<p align="center">Becker Quest (C#)</p>
+<p align="center"><h1>Becker Quest (C#)</h1></p>
 [Becker Quest](https://youtu.be/TgJsSakpZ8U) is a HoloLens tour game designed to show prospective students around one of Becker College's buildings.
 
 * Implemented an inventory system for the player that showed a new email and icon at certain milestones.
@@ -22,7 +22,7 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 * Created the base progression script to manage which objects were available and when.
 
 
-<p align="center">Darkflame Universe (C++, Lua)</p>
+<p align="center"><h1>Darkflame Universe (C++, Lua)</h1></p>
 [Darkflame Universe](https://www.darkflameuniverse.org) is a server emulator for the popular MMOG, LEGO Universe.
 
 * Managed a team of 15 staff, including developers and moderators.
