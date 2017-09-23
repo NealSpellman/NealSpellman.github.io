@@ -7,8 +7,8 @@ permalink: /contact/
 Got a job opportunity or just want to talk about a project? Feel free to reach out!
 I'm active on all the following accounts;
 
-[Email](mailto:neal.m.spellman@gmail.com)
+<p align="center">[Email](mailto:neal.m.spellman@gmail.com)</p>
 
-[LinkedIn](https://www.linkedin.com/in/spellneal/)
+<p align="center">[LinkedIn](https://www.linkedin.com/in/spellneal/)</p>
 
-[Twitter](https://twitter.com/SpellNeal)
+<p align="center">[Twitter](https://twitter.com/SpellNeal)</p>
