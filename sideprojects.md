@@ -10,11 +10,11 @@ permalink: /sideprojects/
 * Modified multiple game worlds using Lua, which will be reflected in future Darkflame Universe client updates.
 * Made a master document of Lua functions and their arguments by dumping from the executable.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7RzS9Xujh65TncUYQ_H4S8bKWiHlOHHR" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PL7RzS9Xujh65TncUYQ_H4S8bKWiHlOHHR" frameborder="0" allowfullscreen></iframe>
 
 <p align="center"><h1>LEGO VR Experience (C#)</h1></p>
 * Used the SteamVR plugin to create VR experiences and test on a Vive.
 * Created a simple movement system for the player using the Vive controllers.
 * Implemented interactible bricks to build with around the map.
 
-[![LEGO VR Experience](https://i.imgur.com/GhFePBV.png)](https://www.youtube.com/playlist?list=PL7RzS9Xujh67e687FQXxPnJgGm77_ZLz9)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PL7RzS9Xujh67e687FQXxPnJgGm77_ZLz9" frameborder="0" allowfullscreen></iframe>
