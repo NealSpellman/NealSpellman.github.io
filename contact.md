@@ -9,6 +9,6 @@ I'm active on all the following accounts;
 
 <p align="center"> <a href="mailto:neal.m.spellman@gmail.com">Email</a> </p>
 
-<p align="center">[LinkedIn](https://www.linkedin.com/in/spellneal/)</p>
+<p align="center"> <a href="https://www.linkedin.com/in/spellneal/">LinkedIn</a> </p>
 
-<p align="center">[Twitter](https://twitter.com/SpellNeal)</p>
+<p align="center"> <a href="https://twitter.com/SpellNeal">Twitter</a </p>
