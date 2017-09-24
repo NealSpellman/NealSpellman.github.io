@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /Resume/
+permalink: /resume/
 ---
 
 Downloadable versions will be put up shortly.
