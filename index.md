@@ -4,9 +4,9 @@ title: About
 permalink: /
 ---
 
-<h3>Hi, welcome!</h3>
+<h3>Welcome!</h3>
 
-Hey, you've just ended up on Neal Spellman's portfolio! I'll be graduating from Becker College in May of 2018 with a B.A. in Interactive Media Design. From that, I concentrated in Game Development and Programming. This is the school's game programming track and thus I took quite a few dedicated programming classes. (Basic programming classes using C++, Data Structures, Artificial Intelligence, Game Programming)
+Hey, you've just ended up on Neal Spellman's portfolio! I'll be graduating from Becker College in May of 2018 with a B.A. in Interactive Media Design. From that, I concentrated in Game Development and Programming. That's essentially the Programming track for the Game major here.
 
 Outside of the classroom, I've worked on a couple professional titles with Becker College's Accipiter Studio. JayWalker and Becker Quest, both listed on the Professional Projects page, are two of the titles we've currently finished. I'm looking to finish and ship two more titles before graduation in May.
 
