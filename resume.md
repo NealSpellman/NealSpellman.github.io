@@ -33,11 +33,11 @@ Anticipated May 2018
 
 <b>Darkflame Universe</b>
 
-<i>Producer and Community Manager</i> / April 2013 - Present
-* Managing the internal staff, including our 7 developers and 7 moderators.
+<i>Producer and Community Manager</i> / April 2013 - October 2017
+* Managed the internal staff, including our 7 developers and 7 moderators.
 * Implemented Agile methods into our development cycle to create slices of gameplay for testing.
-* Supporting the <b>5,000+</b> registered users through engagement on our forum, Twitter and Instagram.
-* Researching the game client and self-teaching myself Lua to best further the game.
+* Supported the <b>5,000+</b> registered users through engagement on our forum, Twitter and Instagram.
+* Researched the game client and self-taught myself Lua to create new content for the game.
 
 <b>Accipiter Studios</b>, Worcester, MA
 
@@ -57,6 +57,7 @@ Anticipated May 2018
 
 <i>Programmer</i> / April 2013 - Present
 * Changing the in-game worlds using Lua scripting.
+* Creating new content zones using the in-game editor.
 * Debugging the database with scripts to visualize the changes while in-game.
 
 <h2>Shipped Titles</h2>
