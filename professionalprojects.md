@@ -15,6 +15,15 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/CqzG8A_SKpQ" frameborder="0" allowfullscreen></iframe>
 
+<p align="center"><h1>The Machine (C#)</h1></p>
+[The Machine](https://www.microsoft.com/en-us/store/p/the-machine-demo/9nhxpw0b2hwl) is a HoloLens interactive escape-the-room game, where the player must solve puzzles to fix their mysterious machine. This is our first title to fully utilize the spatial mapping technology of the HoloLens.
+
+* Implemented spatial mapping and refined using test data from many environments.
+* Wrote GameMaster, the main progression script that all game objects pull from.
+* Managed and mentored the studio in implementing GitHub for source control.
+* Designed an audio system for the game's dialogue.
+* Built stable releases each week for the team.
+
 <p align="center"><h1>Becker Quest (C#)</h1></p>
 [Becker Quest](https://youtu.be/TgJsSakpZ8U) is a HoloLens tour game designed to show prospective students around one of Becker College's buildings.
 
