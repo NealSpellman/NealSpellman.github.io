@@ -37,8 +37,8 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 [Darkflame Universe](https://www.darkflameuniverse.org) is a server emulator for the popular MMOG, LEGO Universe.
 
 * Managed a team of 15 staff, including developers and moderators.
-* Introduced Trello to our development process and held sprints for content milestones.
+* Introduced Trello to the development process and held sprints for content milestones.
 * Grew the project's audience from nothing all the way to 5,000+ current registered users.
-* Managing the project's Twitter, Instagram, and forum presence.
+* Managed the project's Twitter, Instagram, and forum presence.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/8yRmKGVifF0" frameborder="0" allowfullscreen></iframe>
