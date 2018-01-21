@@ -4,8 +4,6 @@ title: Professional Projects
 permalink: /professionalprojects/
 ---
 
-For some code examples, please visit [this link](https://drive.google.com/drive/folders/1RjURHwprk7vnPmwjaMnYLZrW_IDhrSCP?usp=sharing).
-
 <p align="center"><h1>JayWalker (C#)</h1></p>
 [JayWalker](https://www.microsoft.com/en-us/store/p/jaywalker/9p76lxr8hhb0) is a HoloLens arcade game about dodging cars in the street.
 The game was shown off at Becker College's booth at PAX East 2017 and was very well received.
