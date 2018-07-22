@@ -16,19 +16,26 @@ permalink: /resume/
 
 Concentration: Game Development and Programming
 
-Anticipated May 2018
+August 2015 - May 2018
 
 <b>Relevant Coursework:</b> Finite Math, Computer Programming I, Computer Programming II, Data Structures, Artificial Intelligence, Game Programming I, Intermediate Game Development, Prototyping Playtesting & Production
 
 <h2>Experience</h2>
+<b>PTC</b>, Needham, MA
+
+<i>Associate AR Developer</i> / April 2018 - Present
+* Created tools for UX designers to rapidly prototype their ideas.
+* Implementing interactive new UI elements in the apps.
+* Responsible for scripting across all the apps and spanning multiple features.
+
 <b>Accipiter Studios</b>, Worcester, MA
 
-<i>Lead Game Programmer</i> / May 2017 - Present
-* Managing a group of 5 programmers to create the studio's latest game, The Machine.
+<i>Lead Game Programmer</i> / May 2017 - May 2018
+* Managed a group of 5 programmers to create the studio's latest game, The Machine.
 * Managed and mentored the studio in implementing GitHub for source control.
-* Building stable releases weekly from the work of all the teams.
+* Built stable releases weekly from the work of all the teams.
 * Designed an audio system and implemented it for all dialogue.
-* Working on scripting for features like UI, progression, spatial mapping and basic gameplay.
+* Worked on scripting for features like UI, progression, spatial mapping and basic gameplay.
 
 <b>Darkflame Universe</b>
 
