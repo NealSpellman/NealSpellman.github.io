@@ -3,8 +3,29 @@ layout: page
 title: Side Projects
 permalink: /sideprojects/
 ---
+<p align="center"><h1>Design Projects</h1></p>
+<p align="center"><h2>Jaywalker Pitch Document</h2></p>
+[This pitch document](https://drive.google.com/file/d/1sAOkYYNzukxzW6OqXaUtCDt9fDryxbae/view?usp=sharing) was used to pitch JayWalker to Accipiter Studio's development head.
+* Ultimately ended up being developed and released, with a video included in professional projects on here.
+* Covered scope and limitations based on projected time.
 
-<p align="center"><h1>LEGO Universe Modding (Lua)</h1></p>
+<p align="center"><h2>Fan design for a Pinnacle Quest in Destiny 2</h2></p>
+[This design document](https://drive.google.com/file/d/1U4_rl-em8Dgsw6hVt_XP8O0lmDNyhYsX/view?usp=sharing) was used as an exercise to practice quest design for an MMO-lite, offering player progression for a "season".
+* Details estimated time for hardcore and casual/average players to complete each step and individual goal.
+* Incentivizes gameplay across the season without power/item level attached to it, focusing more on letting players create builds they like and earn cosmetics.
+
+<p align="center"><h1>Technical Projects</h1></p>
+<p align="center"><h2>NexusHQ (C#)</h2></p>
+[NexusHQ](https://github.com/NealSpellman/NexusHQ) is an open-source project I released on Github, allowing players to check drop locations and rates for items within LEGO Universe.
+This isn't yet complete (especially the UI!), but offers a starting point for other developers to jump on and help the project.
+* Converted XML database tables to JSON for application consumption
+* Added a modular image loading system, where users can slot in the item images from their game client's files.
+* Dynamically generate item prefabs and activity info prefabs based on the number of items & loot tables per activity.
+
+![Preview Picture](https://i.imgur.com/96IVgPB.png)
+
+<p align="center"><h2>LEGO Universe Modding (Lua)</h2></p>
+While this isn't necessarily a standalone project that you can "play", this is talking about the time I spent to learn Lua and run my own scripts within LEGO Universe.
 * Self-taught myself Lua by researching dozens of client scripts and creating new ones.
 * Created scripts to visualize database values for the player's customization options.
 * Modified multiple game worlds using Lua, which will be reflected in future Darkflame Universe client updates.
@@ -13,7 +34,7 @@ permalink: /sideprojects/
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/videoseries?list=PL7RzS9Xujh65TncUYQ_H4S8bKWiHlOHHR" frameborder="0" allowfullscreen></iframe>
 
-<p align="center"><h1>LEGO VR Experience (C#)</h1></p>
+<p align="center"><h2>LEGO VR Experience (C#)</h2></p>
 * Used the SteamVR plugin to create VR experiences and test on a Vive.
 * Created a simple movement system for the player using the Vive controllers.
 * Implemented interactible bricks to build with around the map.
