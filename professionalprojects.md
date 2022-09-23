@@ -67,7 +67,7 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TgJsSakpZ8U" frameborder="0" allowfullscreen></iframe>
 
-<p align="center"><h1>Darkflame Universe (=Lua)</h1></p>
+<p align="center"><h1>Darkflame Universe (Lua)</h1></p>
 [Darkflame Universe](https://www.darkflameuniverse.org) is a server emulator for the popular MMORPG, LEGO Universe.
 
 * Managed a team of 15 staff, including developers and moderators.
@@ -77,4 +77,4 @@ The game was shown off at Becker College's booth at PAX East 2017 and was very w
 * Designed new content for the game, including a new map for players to visit during the winter event.
 * Hosted our last dev stream which had over 3,000 viewers
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=UWH3Y67uWic" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UWH3Y67uWic" frameborder="0" allowfullscreen></iframe>
