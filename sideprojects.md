@@ -14,6 +14,16 @@ permalink: /sideprojects/
 * Details estimated time for hardcore and casual/average players to complete each step and individual goal.
 * Incentivizes gameplay across the season without power/item level attached to it, focusing more on letting players create builds they like and earn cosmetics.
 
+<p align="center"><h2>Fan design for a new raid race mode in Destiny 2</h2></p>
+<object data="https://www.nealspellman.com/documents/NealSpellman-ActivityDesignTrials.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.nealspellman.com/documents/NealSpellman-ActivityDesignTrials.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.nealspellman.com/documents/NealSpellman-ActivityDesignTrials.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+* Incentivizes playing a bunch of matches to try and win, but still guarantees you won't walk away with nothing at our minimum effort level.
+* Gives the player something they can do with friends that can easily be updated in new seasons, reusing any past/present boss monsters.
+
+
 <p align="center"><h1>Technical Projects</h1></p>
 <p align="center"><h2>NexusHQ (C#)</h2></p>
 [NexusHQ](https://github.com/NealSpellman/NexusHQ) is an open-source project I released on Github, allowing players to check drop locations and rates for items within LEGO Universe.
@@ -28,7 +38,7 @@ This isn't yet complete (especially the UI!), but offers a starting point for ot
 While this isn't necessarily a standalone project that you can "play", this is talking about the time I spent to learn Lua and run my own scripts within LEGO Universe.
 * Self-taught myself Lua by researching dozens of client scripts and creating new ones.
 * Created scripts to visualize database values for the player's customization options.
-* Modified multiple game worlds using Lua, which will be reflected in future Darkflame Universe client updates.
+* Created scripts for new enemy types and making current bosses smarter.
 * Made a master document of Lua functions and their arguments by dumping from the executable.
 * Created two new content zones for Darkflame Universe, one of which was shown in a recent testing session.
 
