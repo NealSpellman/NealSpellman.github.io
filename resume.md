@@ -6,9 +6,11 @@ permalink: /resume/
 
 <h2>Resume</h2>
 
-Looking for my resume? I've got two, one tailored towards technical work and one tailored towards design work. Take look at either using the links below!
+Looking for my resume? Here's my latest copy!
 
-<a href="https://drive.google.com/file/d/1G4QyaN8zTtyT937tx-sUBRE1J-9L_PEE/view?usp=sharing">Technical resume - click here.</a>
-
-<a href="https://drive.google.com/file/d/1mFd7qnoAiX8gG3V1sXel11MLZbOSApgu/view?usp=sharing">Design resume - click here.</a>
+<object data="https://www.nealspellman.com/documents/NealSpellman_Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.nealspellman.com/documents/NealSpellman_Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.nealspellman.com/documents/NealSpellman_Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
