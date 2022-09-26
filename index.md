@@ -4,6 +4,10 @@ title:
 permalink: /
 ---
 
+<a href="http://www.nealspellman.com/sideprojects/">
+         <img alt="Design header" src="https://i.imgur.com/MZPZoYo.png"
+         width=400" height="200">
+
 
 Hello, I'm Neal Spellman and this is my portfolio site! 
 
