@@ -3,10 +3,8 @@ layout: page
 title:
 permalink: /
 ---
-
-<a href="http://www.nealspellman.com/sideprojects/">
-         <img alt="Design header" src="https://i.imgur.com/MZPZoYo.png"
-         width=400" height="200">
+		 
+[![Design Header](https://i.imgur.com/MZPZoYo.png)](http://www.nealspellman.com/sideprojects/)
 
 
 Hello, I'm Neal Spellman and this is my portfolio site! 
