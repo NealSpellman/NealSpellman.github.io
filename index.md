@@ -6,6 +6,8 @@ permalink: /
 		 
 [![Design Header](https://i.imgur.com/MZPZoYo.png)](http://www.nealspellman.com/sideprojects/)
 
+[![Engineering Header](https://i.imgur.com/3vsrQkQ.png)](http://www.nealspellman.com/professionalprojects/)
+
 
 Hello, I'm Neal Spellman and this is my portfolio site! 
 
