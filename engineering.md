@@ -1,3 +1,10 @@
+---
+layout: page
+title: Engineering Portfolio
+permalink: /engineering/
+---
+
+![Organized Slime playtest gif](https://i.imgur.com/LuKZNi9.gif)
 
 <p align="center"><h1>Organized Slime (C#)</h1></p>
 I can provide videos/demo builds upon request, but this one is still very early on.

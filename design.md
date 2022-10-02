@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Design Portfolio
+permalink: /design/
+---
 <p align="center"><h1>Design Projects</h1></p>
 <p align="center"><h2>Jaywalker Pitch Document</h2></p>
 [This pitch document](https://drive.google.com/file/d/1sAOkYYNzukxzW6OqXaUtCDt9fDryxbae/view?usp=sharing) was used to pitch JayWalker to Accipiter Studio's development head.
