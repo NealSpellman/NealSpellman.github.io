@@ -15,9 +15,19 @@ Our professor stressed the fact that these games needed to be *simple*; one main
 
 When looking for something simple, I thought back to the original Frogger; all you had to do was get across. Of course that's oversimplifying the journey of getting across and whatever obstacles you'd encounter in the level, but it was enough to make me think of a new idea.
 
-JayWalker was the game I came up with. [This pitch document](https://drive.google.com/file/d/1sAOkYYNzukxzW6OqXaUtCDt9fDryxbae/view?usp=sharing) was what I took to our next studio meeting and presented, which was voted favorite of the entire studio.
+JayWalker was the game I came up with. [This pitch document](https://drive.google.com/file/d/1sAOkYYNzukxzW6OqXaUtCDt9fDryxbae/view?usp=sharing) and a *very* simple prototype won over the studio, cementing JayWalker as the game we'd make.
+
+Here's what JayWalker looked like initially in my prototype and early builds;
+
+![Prototype scene](https://i.imgur.com/tTZ7073.png)
+
+![Prototype player view](https://i.imgur.com/mMpH0d0.png)
 
 Throughout the single semester of development, we hosted playtests on campus and balanced the game around feedback received. We also showcased JayWalker at PAX East in 2017!
+
+And of course, here's the finished version of our main map;
+
+![Final version of the main level](https://i.imgur.com/OjtmCqt.png)
 
 <p align="center"><h2>Crossing Mode</h2></p>
 
