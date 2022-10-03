@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I'm Neal Spellman and this is my portfolio site! 
+Hey, I'm Neal Spellman!
 
 Back in 2015, I graduated highschool and went on to Becker College to study Game Development and Programming. While attending college classes, I worked at Accipiter Studios and created 3 different games. Two of those went on to be released on the Microsoft Store, [JayWalker](https://www.microsoft.com/en-us/store/p/jaywalker/9p76lxr8hhb0) and [The Machine](https://www.microsoft.com/en-us/p/the-machine-demo/9nhxpw0b2hwl)! After graduating with a BA in 2018, I started working at PTC and have been there since.
 
