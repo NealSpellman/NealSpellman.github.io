@@ -3,11 +3,10 @@ layout: page
 title: Design Portfolio
 permalink: /design/
 ---
-<p align="center"><h1>Design Projects</h1></p>
-<p align="center"><h2>Jaywalker Pitch Document</h2></p>
-[This pitch document](https://drive.google.com/file/d/1sAOkYYNzukxzW6OqXaUtCDt9fDryxbae/view?usp=sharing) was used to pitch JayWalker to Accipiter Studio's development head.
-* Ultimately ended up being developed and released, with a video included in professional projects on here.
-* Covered scope and limitations based on projected time.
+
+This page is under construction! Please excuse the state of it while I'm working on improving the layout.
+
+[![JayWalker Design Page Link](https://i.imgur.com/7Hjfqje.jpg)](https://www.nealspellman.com/jaywalker/)
 
 <p align="center"><h2>Fan design for a Pinnacle Quest in Destiny 2</h2></p>
 [This design document](https://drive.google.com/file/d/1U4_rl-em8Dgsw6hVt_XP8O0lmDNyhYsX/view?usp=sharing) was used as an exercise to practice quest design for an MMO-lite, offering player progression for a "season".
