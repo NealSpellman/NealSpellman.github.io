@@ -4,7 +4,9 @@ title:
 permalink: /jaywalker/
 ---
 
-[JayWalker Gameplay](https://i.imgur.com/WJlUk3r.gif)
+JayWalker - Developed in Unity using C# for HoloLens.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/CqzG8A_SKpQ" frameborder="0" allowfullscreen></iframe>
 
 <p align="center"><h2>Overview</h2></p>
 
@@ -26,7 +28,3 @@ After developing a barebones concept level that I called "Crossing", I presented
 This, unfortunately, was close to our deadlines for putting the game up on the app store; I ended up working extra hard on doing the remaining engineering and design work to cut down on work the rest of the team would have to do.
 
 It was shipped with our initial app build on the [Microsoft Store, which can be downloaded for free](https://www.microsoft.com/en-us/p/jaywalker/9p76lxr8hhb0)!
-
-<p align="center"><h2>Gameplay</h2></p>
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/CqzG8A_SKpQ" frameborder="0" allowfullscreen></iframe>
