@@ -25,7 +25,7 @@ I cannot include images of unreleased, unused or in-progress work, but I can tal
 * [Vuforia Vantage, Android](https://play.google.com/store/apps/details?id=com.ptc.frontline)
 * [Vuforia Capture, RealWear](https://support.ptc.com/appserver/auth/it/esd/product.jsp?prodFamily=VEC) (A PTC E-Support account is needed to try this)
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/SsBxrdXsUu0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/SsBxrdXsUu0?start=414" frameborder="0" allowfullscreen></iframe>
 The above video covers Capture on RealWear, which is just one of the platforms and includes platform-specific UX.
 
 
@@ -47,10 +47,12 @@ In 2021, [we shipped Darkflame Universe and it's publicly available to try!](htt
     * Pictures of this prototype zone can be found below, with a design process and design document being included here at a later date.
 
 ![Prototype layout for Horizon Crux](https://i.imgur.com/ZHjI335.png)
+This is the prototype blockout of the zone, showing each of the areas planned.
 
 ![Vantage point for Horizon Crux, showing the big bad's lair in the distance](https://i.imgur.com/q6PZlJ3.png)
+This is the finished vantage point past the shield, showing the big bad and getting players excited to reach him.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/UtsQEF9CG5I?start=254" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UtsQEF9CG5I?start=274" frameborder="0" allowfullscreen></iframe>
 
 
 
